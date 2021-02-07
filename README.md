@@ -1,8 +1,8 @@
 # DebtCollector
 
-Debt collection system.
-You can add people who owe you debt and manage all your debts.
-Includes notification to remind when a debt is about to cross its deadline.
+Debt collection system.\n
+You can add people who owe you debt and manage all your debts.\n
+Includes notification to remind when a debt is about to cross its deadline.\n
 You can specify name, amount, deadline (if there is one) and many more features.
 
 There are 3 types of debts:
