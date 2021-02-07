@@ -1,5 +1,5 @@
 # DebtCollector
-======================
+
 Debt collection system.
 You can add people who owe you debt and manage all your debts.
 Includes notification to remind when a debt is about to cross its deadline.
